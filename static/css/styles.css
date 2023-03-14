@@ -231,11 +231,9 @@ nav li:hover > a {
 
 .tech-talk-heading > span{
     animation: 2s infinite alternate beat;
-    color: transparent;
+    color: red;
     font-size: 1.2em;
     font-weight: 800;
-    background-image: linear-gradient(to left, rgb(121, 24, 53), rgb(65, 43, 163));
-    background-clip: text;
 }
 
 .tech-talk-latest {
